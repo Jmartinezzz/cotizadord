@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 // importar variables
 import colors from './src/utils/colors';
+
 // importar componentes
 import Form from './src/components/Form';
 import Footer from './src/components/Footer';
